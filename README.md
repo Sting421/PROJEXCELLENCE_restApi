@@ -12,8 +12,8 @@ https://www.figma.com/design/Ejn0kA6AoDekfoNpKFUWXq/IM2?node-id=0-1&t=wTeiojp3ZG
 
 
 
-# zincaid (Lanz Roy Sumalpong) - PM  
-# Sting421 (Aldrin John Vitorillo)
+### zincaid (Lanz Roy Sumalpong) - PM  
+### Sting421 (Aldrin John Vitorillo)
 
 
 
