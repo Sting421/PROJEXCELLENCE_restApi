@@ -6,7 +6,9 @@
 }
 
 body {
-	background-image: url(/frontend//PROJEXCELLENCE/src/assets/test.jpg);
+	background-image: url(./src/assets/signinBg.png);
+	background-size: cover;
+	background-repeat: no-repeat;
 	display: flex;
 	justify-content: center;
 	align-items: center;
@@ -74,12 +76,16 @@ form {
 	background-color: #FFFFFF;
 	display: flex;
 	align-items: center;
-	justify-content: center;
 	flex-direction: column;
 	padding: 0 50px;
-	height: 100%;
+	
 	text-align: center;
 }
+.create-account-form {
+	margin-top: 30px; /* Example value */
+  }
+  
+
 
 input {
 	background-color: #eee;
@@ -96,9 +102,9 @@ input {
 			0 10px 10px rgba(0,0,0,0.22);
 	position: relative;
 	overflow: hidden;
-	width: 768px;
-	max-width: 100%;
-	min-height: 480px;
+	width: 1100px;
+	max-width: 120%;
+	min-height: 580px;
 }
 
 .form-container {
@@ -161,6 +167,7 @@ input {
 
 .overlay {
 	background: #FF416C;
+	
 	background: -webkit-linear-gradient(to bottom, #46DFB1, #267960);
 	background: linear-gradient(to bottom, #46DFB1, #267960);
 	background-repeat: no-repeat;
@@ -249,4 +256,7 @@ footer i {
 footer a {
     color: #3c97bf;
     text-decoration: none;
+}
+.your-class-name {
+	color:#46DFB1;
 }
